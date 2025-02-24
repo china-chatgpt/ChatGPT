@@ -1,6 +1,6 @@
-# ChatGPT 中文版：国内访问指南（支持 GPT-4，无需翻墙）【2025/02/24】
+# ChatGPT 中文版：国内访问指南（支持 GPT-4，无需翻墙）【2025/02/25】
 
-> **更新于：2025/02/24**       
+> **更新于：2025/02/25**       
 
 本项目专门整理了**ChatGPT 中文版**使用指南，**无需翻墙**就能轻松**使用上 ChatGPT**~
 
@@ -33,10 +33,10 @@
 
 以下是一些推荐的 **ChatGPT中文版镜像网站**，您可以在无需翻墙的情况下，顺畅使用 ChatGPT：
 
-1. **一下AI ([www.yixiaai.com](https://www.yixiaai.com/))**   
+1. **一下AI ([chat.yixiaai.com](https://chat.yixiaai.com/))**   
    **ChatGPT中文版**，提供支持 GPT-4、4o、4o mini 及 o1 的全面服务，包含 AI绘画、AI插件、AI助手、AI PPT功能，使用简便。
 
-2. **AI智慧岛 ([chat.lify.vip](https://chat.lify.vip/))**  
+2. **AI智慧岛 ([chat.lify.vip](https://www.yixiaai.com/))**  
    **ChatGPT镜像网站**，多功能平台，支持 GPT-4、4o 及 o1，适合各类用户需求。
 
 3. **AI智绘 ([guide1.lanjing.ai](https://guide1.lanjing.ai/))**  
